@@ -7,3 +7,12 @@ int findunique(int *arr,int size){
     }
     return ans;
 }
+
+// input:
+// 1
+// 7
+// 2 3 1 6 3 6 2
+
+
+// output:
+// 1

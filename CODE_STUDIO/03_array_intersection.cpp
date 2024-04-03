@@ -21,3 +21,15 @@ vector<int> findArrayIntersection(vector<int> &arr1, int n, vector<int> &arr2, i
 	}
 	return ans;
 }
+
+// Sample Input 1 :
+// 2
+// 6 4
+// 1 2 2 2 3 4
+// 2 2 3 3
+// 3 2
+// 1 2 3
+// 3 4  
+// Sample Output 1 :
+// 2 2 3
+// 3   
